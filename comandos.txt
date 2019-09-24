@@ -1,0 +1,1000 @@
+  506  git config user.email "douglasklemes0303@gmail.com"
+  507  git config user.name "douglas"
+  508  git commit -m "Adicionar menu hamburger
+  509  git commit -m "Adicionar menu hamburger
+  510  git config user.email "douglasklemes0303@gmail.com"
+  511  git config user.name "douglas"
+  512  git commit -m "Adicionar menu hamburger"
+  513  git remote add origin https://github.com/douglasklemesb3/403-hamburque.git
+  514  git push origin master
+  515  git status
+  516  git add .
+  517  git status
+  518  git commit -m "Adicionar animaçao do menu hamburguer"
+  519  git push origin master
+  520  ls
+  521  cd Área\ de\ Trabalho/
+  522  ls
+  523  mkdir 404-jogos-cores
+  524  cd 404-jogos-cores/
+  525  touch index.html style.css script.js
+  526  code .
+  527  touch README.md
+  528  code .
+  529  git init 
+  530  git status
+  531  git add .
+  532  git status
+  533  git config user.name "douglas"
+  534  git config user.email "douglasklemes0303@gmail.com"
+  535  git commit -m "Adicionar jogo"
+  536  git remote add origin https://github.com/douglasklemesb3/404-jogo.git
+  537  git push origin master
+  538  ls
+  539  cd Área\ de\ Trabalho/
+  540  ls
+  541  cd "Área de Trabalho"/
+  542  mkdir 04_05-jogoVelha
+  543  cd 04_05-jogoVelha/
+  544  touch index.html style.css script.js algoritimo.txt
+  545  code .
+  546  cd ..
+  547  ls
+  548  cd 04_05-jogoVelha/
+  549  git init
+  550  git config user.name"RogerLeitel8"
+  551  git config user.email "roger.leite@etec.sp.gov.br"
+  552  git add .
+  553  git commit -m "Adicionar os quadrados"
+  554  touch READ.me
+  555  touch README.me
+  556  code .
+  557  touch README.md
+  558  cd Área\ de\ Trabalho/
+  559  ls
+  560  cd 04_05-jogoVelha/
+  561  git init
+  562  git log
+  563  git config user.name RogerLeitel8
+  564  git config user.email "roger.leite@etec.sp.gov.br"
+  565  git commit -m "Adicionar afunção"
+  566  git add .
+  567  git commit -m "Adicionar a função"
+  568  git push https://github.com/RogerLeitel8/04_05-atividade.git master
+  569  git log
+  570  ls
+  571  cd Área\ de\ Trabalho/
+  572  LS
+  573  ls
+  574  mkdir 502-bom
+  575  ls
+  576  502-bom/
+  577  touch index.html script.js style.css
+  578  code .
+  579  ls
+  580  502-bom/
+  581  cd 502-bom/
+  582  ls
+  583  cd
+  584  lj
+  585  ls
+  586  cd Área\ de\ Trabalho/
+  587  LS
+  588  ls
+  589  cd 502-bom/
+  590  ls
+  591  git init
+  592  git config user.name "douglas"
+  593  git config user.email "douglasklemes0303@gmail.com"
+  594  git commit -m "Adicionar atividade localStorage"
+  595  git status
+  596  git add .
+  597  git status
+  598  git commit -m "Adicionar atividade localStorage"
+  599  git remote add origin https://github.com/douglasklemesb3/502-bom.git
+  600  git push origin master
+  601  cd ..
+  602  ls
+  603  clone https://github.com/AbnerAbreu/jogo-da-velha.git
+  604  git clone https://github.com/AbnerAbreu/jogo-da-velha.git
+  605  ls
+  606  git clone https://github.com/AbnerAbreu/jogo-da-velha.git
+  607  mkdir 503-forms
+  608  cd 503-forms/
+  609  touch index.html style.css script.js
+  610  code .
+  611  git init
+  612  git status
+  613  git add .
+  614  git config user.name "douglas"
+  615  git config user.name "douglasklemes0303@gmail.com"
+  616  git config user.email "douglasklemes0303@gmail.com"
+  617  git commit -m "Adicionar formulario"
+  618  git push origin master
+  619  ls
+  620  cd Área\ de\ Trabalho/
+  621  ls
+  622  cd 503-forms/
+  623  git status
+  624  git commit -m "Adicionar formulario"
+  625  git add .
+  626  git commit -m "Adicionar js"
+  627  git push origin master
+  628  git status
+  629  git add .
+  630  git status
+  631  git commit -m "finalizar cadastro"
+  632  git push origin master
+  633  git add .
+  634  git commit -m "finalizar cadastro"
+  635  git push origin master
+  636  cd ..
+  637  ls
+  638  cd Área\ de\ Trabalho/
+  639  ls
+  640  mkdir 505-callback
+  641  cd 505-callback/
+  642  touch index.html style.css script.js
+  643  ls
+  644  code .
+  645  git init
+  646  git status
+  647  git add ;
+  648  git add .
+  649  git config user.name "douglas"
+  650  git config user.email "douglasklemes0303@gmail.com"
+  651  git commt -m "Adicionar promessa"
+  652  git commit -m "Adicionar promessa"
+  653  git remote add origin https://github.com/douglasklemesb3/505-promessa.git
+  654  git push origin master
+  655  cd ..
+  656  mkdir 505-fetch
+  657  cd 505-
+  658  cd 505-fetch
+  659  touch index.html script.js
+  660  code .
+  661  ls
+  662  cd ..
+  663  ls
+  664  505-fetch/
+  665  cd 505-f
+  666  cd 505-fetch/
+  667  git init
+  668  git add .
+  669  git status
+  670  git config user.name "douglas"
+  671  git config user.email "douglasklemes0303@gmail.com"
+  672  git commit -m "Adicionar fetch"
+  673  git remote add origin https://github.com/douglasklemesb3/505-promessa.git
+  674  git push origin master
+  675  git push https://github.com/douglasklemesb3/505-promessa.git master
+  676  git remote add origin https://github.com/douglasklemesb3/505-fetch.git
+  677  git push https://github.com/douglasklemesb3/505-fetch.git master
+  678  git remote add origin https://github.com/douglasklemesb3/505-fetch.git
+  679  ls
+  680  cd Área\ de\ Trabalho/
+  681  ls
+  682  git clone https://github.com/caieiras-tech/505-fetch.git
+  683  git clone https://github.com/caieiras-tech/505-fetch
+  684  git clone https://github.com/caieiras-tech/505-fetch.git
+  685  ls
+  686  cd 505-fetch/
+  687  code .
+  688  ls
+  689  cd Área\ de\ Trabalho/
+  690  ls
+  691  cd ..
+  692  ls
+  693  cd Área\ de\ Trabalho/
+  694  ls
+  695  mkdir 601-rickandmorty
+  696  ls
+  697  cd 601-rickandmorty/
+  698  git clone https://github.com/danilowOENS/601-rickandmorty.git
+  699  ls
+  700  cd 601-rickandmorty/
+  701  ls
+  702  code .
+  703  cd ..
+  704  cd 601-rickandmorty/
+  705  git init 
+  706  git status
+  707  cd ..
+  708  git init
+  709  git status
+  710  git add .
+  711  git config user.name "douglas"
+  712  git config user.email"douglasklemes0303@gmail.com"
+  713  git commit -m "Adicionar jogo do rick morty"
+  714  git status
+  715  git init
+  716  git config user.name "douglas"
+  717  git config user.email"douglasklemes0303@gmail.com"
+  718  git commit -m "Adicionar jogo do rick morty"
+  719  cd ..
+  720  git clone https://github.com/danilowOENS/601-rickandmorty.git
+  721  cd
+  722  sudo apt-get update
+  723  sudo apt-get install nodejs
+  724  sudo apt-get install npm
+  725  cd Área\ de\ Trabalho/
+  726  mkdir 602-npm
+  727  cd 602-npm/
+  728  code .
+  729  ls
+  730  npm init
+  731  ls
+  732  code .
+  733  sudo npm install gulp-cli -g
+  734  npm install gulp gulp-concat gulp-uglify gulp-babel -D
+  735  npm init
+  736  npm install gulp gulp-concat gulp-uglify gulp-babel -D
+  737  gulp compilar-scripts
+  738  gulp compilar-css
+  739  gulp compilar-scripts
+  740  gulp compilar-css
+  741  git init
+  742  git add .
+  743  git status
+  744  git config user.name "douglas"
+  745  git config user.email "douglasklemes0303@gmail.com"
+  746  git add .
+  747  git status
+  748  git config user.name "douglas"
+  749  git config user.email "douglasklemes0303@gmail.com"
+  750  git commit -m "Adicionar npm"
+  751  git remote add origin https://github.com/douglasklemesb3/602-npm.git
+  752  git push origin master
+  753  sudo npm install sass -g
+  754  cd Área\ de\ Trabalho/
+  755  ls
+  756  git clone https://github.com/danilowOENS/601-rickandmorty.git
+  757  cd 601-rickandmorty/
+  758  ls
+  759  git init 
+  760  git status
+  761  git comit -m "Adicionar jogo rick"
+  762  git commit -m "Adicionar jogo rick"
+  763  git config user.name"douglas"
+  764  git config user.email"douglasklemes0303@gmail.com"
+  765  git commit -m "Adicionar jogo rick"
+  766  cd  
+  767  cd Área\ de\ Trabalho/
+  768  ls
+  769  mkdir 603-sass
+  770  cd 603-sass/
+  771  touch index.html
+  772  code .
+  773  ls
+  774  code .
+  775  ls
+  776  gulp
+  777  npm install gulp-clean-css
+  778  ls
+  779  npm init
+  780  sudo npm install gulp
+  781  sudo npm install gulp-
+  782  sudo npm install gulp-clean-css
+  783  sudo npm install gulp-uglify
+  784  sudo npm install gulp-uglify -d
+  785  sudo npm install gulp-concat -d
+  786  sudo npm install gulp-clean-css -d
+  787  npm install 
+  788  cd ..
+  789  mkdir 603-sass-douglas
+  790  cd 603-sass-douglas/
+  791  npm init
+  792  ls
+  793  sudo npm install gulp -D
+  794  code .
+  795  sudo npm install gulp-concat -D 
+  796  sudo npm install gulp-uglify -D 
+  797  sudo npm install gulp-clean-css -D 
+  798  scss --watch static/main.css
+  799  sudo apt install ruby-sass
+  800  scss --watch static/main.css
+  801  cd Área\ de\ Trabalho/
+  802  ls
+  803  mkdir 604-bootstrap
+  804  cd 604-bootstrap/
+  805  touch inde.html
+  806  ls
+  807  code .
+  808  git init
+  809  git config user.name"douglas"
+  810  git config user.email"douglasklemes0303@gmail.com"
+  811  git add .
+  812  git commit -m "Adicionar bootstrap"
+  813  git config user.name"douglas"
+  814  git config user.email"douglasklemes0303@gmail.com"
+  815  git commit -m "Adicionar bootstrap"
+  816  git config user.email "douglasklemes0303@gmail.com"
+  817  git config user.name "douglas"
+  818  git commit -m "Adicionar bootstrap"
+  819  git push https://github.com/douglasklemesb3/604-bootstrap.git master
+  820  scss --watch static/main.css: style.css
+  821  scss --watch static/main.scss 
+  822  cd Área\ de\ Trabalho/
+  823  cd pycharm-community-2019.2/
+  824  cd bin
+  825  sudo ./pycharm.sh 
+  826  cd Área\ de\ Trabalho/
+  827  cd pycharm-community-2019.2/
+  828  cd bin
+  829  sudo ./pycharm.sh 
+  830  sudo ./pycharm.sh
+  831  python3 -m venv env
+  832  LS
+  833  ls
+  834  sudo ./pycharm.sh
+  835  python3 -m venv env
+  836  ls
+  837  cd ..
+  838  mkdir espaco_cideral
+  839  cd . espaco_cideral
+  840  cd espaco_cideral
+  841  python3 -m venv env
+  842  sudo  apt-get install python3-venv
+  843  python3 -m venv env
+  844  source env/bin/activate
+  845  pip install statistics
+  846  cd
+  847  sudo apt-get update
+  848  cd
+  849  exit()
+  850  sudo apt-get update
+  851  cd Área\ de\ Trabalho/
+  852  sudo ./pycharm.sh
+  853  ls
+  854  cd pycharm-community-2019.2/
+  855  ls
+  856  cd bin
+  857  ./pycharm.sh
+  858  cd ..
+  859  ls
+  860  cd pycharm-community-2019.2/
+  861  ls
+  862  cd bin
+  863  .pycharm.sh
+  864  ./pycharm.sh
+  865  cd..
+  866  cd ..
+  867  mkdir aula4
+  868  cd aula4
+  869  touch requirements.txt
+  870  python -m venv env 
+  871  cd ..
+  872  mkdir aula4
+  873  cd aula4
+  874  touch requirements.txt
+  875  python -m venv env 
+  876  cd .
+  877  cd ..
+  878  ls
+  879  cd Documents
+  880  cd Documentos
+  881  mkdir aula4
+  882  cd aula4
+  883  touch requirements.txt
+  884  python3 -m venv env 
+  885  source env/bin/activate
+  886  pip install numpy 
+  887  pip freeze
+  888  pip freeze > requirements.txt
+  889  pip freeze
+  890  pip install -r requirements.txt
+  891  pip freeze
+  892  pip install --upgrade pip
+  893  pip freeze
+  894  python3 escadinha.py
+  895  pip install numpy
+  896  sudo apt install python-pip
+  897  ls 
+  898  pip install numpy
+  899  pip freeze
+  900  pip install numpy
+  901  pip install numpy 
+  902  pip install -r requirements.txt
+  903  pip freeze
+  904  pip install numpy
+  905  pip install --upgrade pip
+  906  pip install  numpy
+  907  pip freeze
+  908  cd Área\ de\ Trabalho/
+  909  ls
+  910  cd pycharm-community-2019.2
+  911  cd bin
+  912  ./pycharm.sh
+  913  ifconsif
+  914  ifconsig
+  915  ufconfig
+  916  ifconfig
+  917  cd Área\ de\ Trabalho/
+  918  mkdir groger bank
+  919  cd groger bank/
+  920  python3 python.py
+  921  cd Área\ de\ Trabalho/
+  922  mkdir groger-bank
+  923  cd groger-bank/
+  924  touch python.py 
+  925  code . 
+  926  git init
+  927  cd documentos/
+  928  cd Área\ de\ Trabalho/
+  929  >>> matriz = ['fondue','lasanha']
+  930  >>> matriz [0:1]
+  931  cd Área\ de\ Trabalho/
+  932  mkdir exercicio-valores
+  933  cd exercicio-valores/
+  934  touch exercicio
+  935  ls
+  936  python3 -m venv env
+  937  source env/bin/activate
+  938  touch python.py 
+  939  ls
+  940  python3
+  941  code .
+  942  cd pycharm-community-2019.2
+  943  ./pycharm.sh
+  944  cd exercicios3
+  945  mkdir exercicio3
+  946  code .
+  947  exit
+  948  python3 exercicio-3.py
+  949  cd Área\ de\ Trabalho/
+  950  mkdir exercicios
+  951  cd exercicios
+  952  touch exercicio-1
+  953  touch exercicio-2
+  954  touch exercicio-3
+  955  ls
+  956  code .
+  957  git init
+  958  git status
+  959  git add .
+  960  git status
+  961  git config user.name "larissa"
+  962  git config user.email "larissaleonso51@gmail.com"
+  963  git commit -m "imput de numeros"
+  964  git push https://github.com/larileonso23/exercicios.git master
+  965  python3 exercicio-1.py
+  966  python3 exercicio-1
+  967  python3 exercicio-1.py
+  968  6
+  969  python3 exercicio-1.py
+  970  python3 exercicio-2
+  971  python3 exercicio-2.py
+  972  python3 exercicio-3.py
+  973  python3 exercicio-def.py
+  974  clear
+  975  python3 exercicio-def.py
+  976  ls
+  977  cd Área\ de\ Trabalho/
+  978  mkdir exercicios
+  979  mkdir exercicios-22
+  980  cd exercicios-22/
+  981  touch exercicio-def
+  982  ls
+  983  python3.py 
+  984  touch exercicio-def.py
+  985  python3
+  986  code .
+  987  python3
+  988  code .
+  989  python3
+  990  git init
+  991  git status
+  992  git add .
+  993  git config user.name "larissa"
+  994  git config user.email "larissaleonso51@gmail.com"
+  995  git commit -m "exercicio"
+  996  git push https://github.com/larileonso23/exercicio-def.git master
+  997  git init
+  998  git status
+  999  git add
+ 1000  git add .
+ 1001  git status
+ 1002  git push https://github.com/larileonso23/exercicio-args.git master
+ 1003  python3 exercicio-def.py
+ 1004  clear
+ 1005  python3 exercicio-def.py
+ 1006  clear
+ 1007  python3 exercicio-def.py
+ 1008  clear
+ 1009  python3 exercicio-def.py
+ 1010  cd Área\ de\ Trabalho/
+ 1011  touch abstraçao.py
+ 1012  ls
+ 1013  python3 code .
+ 1014  code .
+ 1015  ls
+ 1016  Área\ de\ Trabalho/
+ 1017  cd Área\ de\ Trabalho/
+ 1018  touch abstraçao.py
+ 1019  ls
+ 1020  code .
+ 1021  python3 
+ 1022  clear
+ 1023  python3
+ 1024  touch 802-args.py
+ 1025  code .
+ 1026  git init
+ 1027  git status
+ 1028  add 802-args.py 
+ 1029  add . '802-args.py' 
+ 1030  add '802-args.py' 
+ 1031  cd Área\ de\ Trabalho/
+ 1032  LS
+ 1033  ls
+ 1034  cd 802-args/
+ 1035  ls
+ 1036  git init
+ 1037  git status
+ 1038  git add .
+ 1039  ls
+ 1040  git status
+ 1041  git commit -m "lista de compras"
+ 1042  git config user.name "larissa"
+ 1043  git config user.email "larissaleons51@gmail.com"
+ 1044  git push https://github.com/larileonso23/802-args_kwargs.git master
+ 1045  git push https://github.com/larileonso23/802-args_kwargs.git master 
+ 1046  git push https://github.com/larileonso23/802-args_kwargs.git master
+ 1047  src
+ 1048  git status
+ 1049  git commit -m "lista de compras"
+ 1050  git config user.name "larissa"
+ 1051  git config user.email "larissaleons51@gmail.com"
+ 1052  git push https://github.com/larileonso23/802-args_kwargs.git master
+ 1053  clear
+ 1054  cd Área\ de\ Trabalho/
+ 1055  mkdir 801-Python
+ 1056  cd 801-Python/
+ 1057  touch 801-python.py
+ 1058  code .
+ 1059  git init
+ 1060  git status
+ 1061  git add .
+ 1062  git status
+ 1063  git commit -m "comentarios-funcoes"
+ 1064  git config user.name "larissa"
+ 1065  git config user.email "larissaleons51@gmail.com"
+ 1066  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1067  git config user.email "larissaleons51@gmail.com"
+ 1068  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1069  git status
+ 1070  git commit -m "comentarios-funcoes"
+ 1071  git config user.email "larissaleons51@gmail.com"
+ 1072  git config user.name "larissa"
+ 1073  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1074  python3 802-args.py
+ 1075  python3
+ 1076  python3 802-ARGS.PY
+ 1077  python3 802-args.py
+ 1078  cd Área\ de\ Trabalho/
+ 1079  mkdir 802-python
+ 1080  cd 802-python/
+ 1081  touch 802-python
+ 1082  touch 802-python.py
+ 1083  code .
+ 1084  git init
+ 1085  git status
+ 1086  git add .
+ 1087  git status
+ 1088  git commit -m "print"
+ 1089  git config user.name "larissa"
+ 1090  git config user.email "larissaleons51@gmail.com"
+ 1091  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1092  git status
+ 1093  git config user.name "larissa"
+ 1094  git config user.email "larissaleons51@gmail.com"
+ 1095  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1096  git config user.name "larissa"
+ 1097  git config user.email "larissaleons51@gmail.com"
+ 1098  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1099  git status
+ 1100  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1101  git init
+ 1102  git status
+ 1103  git add .
+ 1104  git status
+ 1105  git init
+ 1106  git status
+ 1107  git add .
+ 1108  git config user.name "larissa"
+ 1109  git config user.email "larissaleons51@gmail.com"
+ 1110  git commit -m "print"
+ 1111  git push https://github.com/larileonso23/801-Python-funcoes.git master
+ 1112  python3 802-python.py
+ 1113  cd Área\ de\ Trabalho/
+ 1114  cd 802-python/
+ 1115  touch 802-python.py
+ 1116  git init
+ 1117  git status
+ 1118  git add .
+ 1119  git commit -m "larissa"
+ 1120  git status
+ 1121  git init
+ 1122  git status
+ 1123  clear
+ 1124  git init
+ 1125  git status
+ 1126  git add .
+ 1127  git commit -m "exercicios"
+ 1128  git config user.name "larissa"
+ 1129  git config user.email "larissaleonso51@gmail.com"
+ 1130  git push https://github.com/larileonso23/803-exercicio.git master
+ 1131  cd Documentos/
+ 1132  mkdir 805-django
+ 1133  cd 805-django/
+ 1134  python3 -m venv env
+ 1135  source env/bin/activate
+ 1136  cd .
+ 1137  mkdir comida
+ 1138  cd comida/
+ 1139  code .
+ 1140  touch requirements.txt
+ 1141  pip install django
+ 1142  pip freeze
+ 1143  pip freeze > requirements.txt 
+ 1144  cat requirements.txt 
+ 1145  code .
+ 1146  ls
+ 1147  djando-admin startproject comida .
+ 1148  django-admin startproject comida .
+ 1149  python manage.py runserver
+ 1150  django-admin startapp landing
+ 1151  git init
+ 1152  git status
+ 1153  git add .
+ 1154  git config user.name 'Priscila Araújo'
+ 1155  git config user.email 'araujo16012002@gmail.com'
+ 1156  source /home/ubuntu/Documentos/901/comida/env/bin/activate
+ 1157  /home/ubuntu/Documentos/901/comida/env/bin/python3 -m pip install -U pylint
+ 1158  cd Documentos/
+ 1159  ls
+ 1160  mkdir 901
+ 1161  cd 901/
+ 1162  mkdir comida
+ 1163  cd comida/
+ 1164  python3 -m venv env
+ 1165  source env/bin/activate
+ 1166  pip install django
+ 1167  pip install --upgrade pip
+ 1168  pip freeze
+ 1169  pip freeze > requirements.txt
+ 1170  ls
+ 1171  touch gitignore
+ 1172  code .
+ 1173  touch .gitignore
+ 1174  code .
+ 1175  django-admin startproject comida .
+ 1176  django-admin startapp landing
+ 1177  python menage.py runserver
+ 1178  python manage.py runserver
+ 1179  python menage.py runserver
+ 1180  python manage.py runserver
+ 1181  ping 1.1.1.1
+ 1182  tar vxzf Postman
+ 1183  cd Postman/
+ 1184  tar vxzf Postman
+ 1185  ./Postman 
+ 1186  snap install postman
+ 1187  sudo snap install postman
+ 1188  ls
+ 1189  cd Documentos/
+ 1190  mkdir 1001
+ 1191  cd 1001/
+ 1192  python3 env/bin/activate
+ 1193  python3 -m venv env
+ 1194  source  env/bin/activate
+ 1195  pip install  django
+ 1196  touch requirements.txt
+ 1197  pip freeze > requiriments.txt
+ 1198  pip install --upgrade pip
+ 1199  pip freeze > requiriments.txt
+ 1200  cat requiriments.txt
+ 1201  django-admin startproject sala-de-aula
+ 1202  django-admin startproject sala1001
+ 1203  django-admin sala1001/
+ 1204  code .
+ 1205  django-admin startproject sala1001 .
+ 1206  code .
+ 1207  cd Documentos/
+ 1208  cd 1001/
+ 1209  code .
+ 1210  python3 -m env venv
+ 1211  python3 -m venv env
+ 1212  source env/bi/activate
+ 1213  source env/bin/activate
+ 1214  pip install djangorestframework
+ 1215  pip freeze
+ 1216  python manage.py runserver 
+ 1217  cd ..
+ 1218  cd 1001/
+ 1219  python manage.py runserver 
+ 1220  source /home/ubuntu/Documentos/1001/env/bin/activate
+ 1221  python manage.py runserver 
+ 1222  git clone 
+ 1223  python manage.py runserver 
+ 1224  ls
+ 1225  cd Documentos/
+ 1226  cd 1001/
+ 1227  python3 -m env venv
+ 1228  source env/bin/activate
+ 1229  code .
+ 1230  python manage.py runserver 
+ 1231  https://github.com/caieiras-tech/sala_de_aula.git master
+ 1232  git clone https://github.com/caieiras-tech/sala_de_aula.git master
+ 1233  code
+ 1234  git clone https://github.com/caieiras-tech/sala_de_aula
+ 1235  code .
+ 1236  python manage.py runserver 
+ 1237  desacvate
+ 1238  desactivate
+ 1239  deactivate
+ 1240  cd ..
+ 1241  cd Documentos/
+ 1242  rm -rf 1001
+ 1243  mkdir 1001
+ 1244  cd 1001
+ 1245  source 
+ 1246  source env/bin/activate
+ 1247  git clone https://github.com/caieiras-tech/sala_de_aula.
+ 1248  git clone https://github.com/caieiras-tech/sala_de_aula
+ 1249  code .
+ 1250  python manage.py runserver 
+ 1251  ls
+ 1252  cd sala_de_aula/
+ 1253  ls
+ 1254  python manage.py runserver 
+ 1255  git init
+ 1256  deactivate
+ 1257  git init
+ 1258  cd ..
+ 1259  git init
+ 1260  git status
+ 1261  git add .
+ 1262  git status
+ 1263  cd sala_de_aula/
+ 1264  git add .
+ 1265  git status
+ 1266  git commit -m 'criar tela Django'
+ 1267  git config user.name 'jKathlein'
+ 1268  git config user.email 'jkathlein1@gmail.com'
+ 1269  git commit -m 'criar tela Django'
+ 1270  git push https://github.com/jKathlein/1002-aluno.git master
+ 1271  git status
+ 1272  git add .
+ 1273  git status
+ 1274  git commit -m 'criar tela Django'
+ 1275  git config user.name 'jKathlein'
+ 1276  git config user.email 'jkathlein1@gmail.com'
+ 1277  git commit -m 'criar tela Django'
+ 1278  git push https://github.com/jKathlein/1002-DjangoRest.git master
+ 1279  source env/bin/activate
+ 1280  python manage.py runserver 
+ 1281  ls
+ 1282  cd Documentos/
+ 1283  cd 1001/
+ 1284  cd Documentos
+ 1285  mkdir aula3
+ 1286  cd aula3
+ 1287  source env/bin/activate
+ 1288  pip install django
+ 1289  source env/bin/activate
+ 1290  python3 -m venv even
+ 1291  source env/bin/activate
+ 1292  python3 -m venv env 
+ 1293  source env/bin/activate
+ 1294  pip install django
+ 1295  django-admin startproject
+ 1296  django-admin startproject .
+ 1297  django-admin startproject aula3 .
+ 1298  django-admin startapp aluno 
+ 1299  code .
+ 1300  cd ..
+ 1301  git clone https://github.com/caieiras-tech/sala_de_aula
+ 1302  ls
+ 1303  cd sala_de_aula/
+ 1304  code .
+ 1305  python manage.py makemigrations 
+ 1306  python manage.py migrate
+ 1307  python manage.py makemigrations 
+ 1308  python manage.py migrate
+ 1309  python manage.py makemigrations 
+ 1310  deactivate
+ 1311  git clone https://github.com/SamantaSouza357/cadastro-djando-rest-api
+ 1312  cd cadastro-djando-rest-api/
+ 1313  python3 -m venv env
+ 1314  source env/bin/activate
+ 1315  python manage.py runserver
+ 1316  pip freeze > reqirements.txt
+ 1317  pip freeze > requirements.txt
+ 1318  pip install djangorestframework
+ 1319  cd ..
+ 1320  deactivate
+ 1321  git clone https://github.com/AbnerAbreu/aluno..py
+ 1322  cd aluno..py/
+ 1323  source env/bin/activate
+ 1324  python3 -m venv env
+ 1325  source env/bin/activate
+ 1326  pip install -r requirements.txt
+ 1327  pip install djangorestframework
+ 1328  python manage.py runserver
+ 1329  code .
+ 1330  python manage.py runserver
+ 1331  python manage.py migrate
+ 1332  python manage.py runserver
+ 1333  python manage.py migrate
+ 1334  python manage.py runserver
+ 1335  python manage.py createsuperuser
+ 1336  python manage.py runserver
+ 1337  python manage.py createsuperuser
+ 1338  python manage.py runserver
+ 1339  ./pycharm.sh
+ 1340  cd ..
+ 1341  cd .
+ 1342  cd ..
+ 1343  cd Documentos/
+ 1344  cd sala_de_aula/
+ 1345  ls
+ 1346  git init
+ 1347  git add .
+ 1348  git status
+ 1349  git add .
+ 1350  ls
+ 1351  ./pycharm.sh
+ 1352  /pycharm.sh
+ 1353  /.pycharm.sh
+ 1354  ./pycharm.sh
+ 1355  pycharm.sh
+ 1356  ./pycharm.sh
+ 1357  cd Documentos/
+ 1358  ls
+ 1359  cd sala_de_aula/
+ 1360  ls
+ 1361  code .
+ 1362  ./pycharm.sh
+ 1363  cd Documentos/
+ 1364  git clone https://github.com/caieiras-tech/sala_de_aula.git.git master
+ 1365  git clone https://github.com/caieiras-tech/sala_de_aula.git master
+ 1366  ls
+ 1367  git clone https://github.com/caieiras-tech/sala_de_aula.git master
+ 1368  git clone https://github.com/caieiras-tech/sala_de_aula.git
+ 1369  ls
+ 1370  cd sala_de_aula/
+ 1371  ls
+ 1372  python3 -m venv env
+ 1373  source env/bin/activate
+ 1374  python manage.py makemigrations
+ 1375  pip install django
+ 1376  pip install --upgrade pip
+ 1377  python manage.py makemigrations
+ 1378  python manage.py makemigrate
+ 1379  pip frezze > requirements.txt
+ 1380  pip freeze > requirements.txt
+ 1381  django-admin startproject
+ 1382  django-admin startproject sala_de_aula
+ 1383  django-admin startproject sala_de_aula .
+ 1384  django-admin startapp landing
+ 1385  python manage.py runserver
+ 1386  python manage.py makemigrations
+ 1387  python manage.py migrate
+ 1388  python manage.py runserver
+ 1389  /.pycharm.sh
+ 1390  ./pycharm.py
+ 1391  ./pycharm.sh
+ 1392  cd Documentos
+ 1393  git clone https://github.com/caieiras-tech/sala_de_aula
+ 1394  ls
+ 1395  cd sala_de_aula/
+ 1396  python3 -m venv env
+ 1397  source env/bin/activate
+ 1398  pip install django
+ 1399  pip install --upgrade pip
+ 1400  pip install django
+ 1401  pip freeze > requirements.txt
+ 1402  ls
+ 1403  python manage.py createsuperuser
+ 1404  python manage.py makemigrations
+ 1405  python manage.py migrate
+ 1406  python manage.py runserver
+ 1407  ./pycharm.sh
+ 1408  cd Documentos/
+ 1409  git clone https://github.com/caieiras-tech/sala_de_aula
+ 1410  ls
+ 1411  cd sala_de_aula/
+ 1412  ls
+ 1413  python3 -m venv env
+ 1414  ls
+ 1415  source env/bin/activate
+ 1416  ls
+ 1417  pip install requirements.txt
+ 1418  pip install --upgrade pip
+ 1419  python manage.py makemigrations
+ 1420  pip install django
+ 1421  python manage.py makemigrations
+ 1422  pip install requirements.txt
+ 1423  pip install -r requirements.txt
+ 1424  python manage.py makemigrations
+ 1425  python manage.py migrate
+ 1426  python manage.py runserver
+ 1427  python manage.py runserver
+ 1428  git init
+ 1429  git status
+ 1430  git add .
+ 1431  git status
+ 1432  cd Documentos/
+ 1433  mkdir herowiki
+ 1434  cd herowiki/
+ 1435  cd ..
+ 1436  ls
+ 1437  cd herowiki/
+ 1438  pip install django
+ 1439  pip install djangorestframework
+ 1440  pip freeze
+ 1441  pip freeze
+ 1442  pip install --upgrade pip
+ 1443  pip install --upgrade pip comand
+ 1444  cd Documentos/
+ 1445  cd herowiki/
+ 1446  python3 -m venv env
+ 1447  source env/bin/activate
+ 1448  pip install django
+ 1449  pip install djangorestframework
+ 1450  pip install --upgrade pip
+ 1451  pip install psycopg2-binary
+ 1452  pip freeze
+ 1453  touch .gigignore
+ 1454  code .
+ 1455  django-admin startproject herowiki .
+ 1456  django-admin startapp universo
+ 1457  django-admin startapp viloes
+ 1458  django-admin startapp herois
+ 1459  django-admin startapp habilidade
+ 1460  code .
+ 1461  gedit ~/.bashrc 
+ 1462  python manage.py makemigrations
+ 1463  reset
+ 1464  python manage.py makemigrations
+ 1465  gedit ~/.bashrc 
+ 1466  python manage.py makemigrations
+ 1467  gedit ~/.bashrc 
+ 1468  python manage.py makemigrations
+ 1469  gedit ~/.bashrc 
+ 1470  reset
+ 1471  python manage.py makemigrations
+ 1472  sudo -u postgres psql
+ 1473  ls
+ 1474  sudo apt-get install postgresql postgresql-contrib -y
+ 1475  systemctl status postgresql
+ 1476  history
+ 1477  history > comandos.txt
+ 1478  sudo gedit /etc/postgresql/9.5/main/pg_hba.conf 
+ 1479  sudo -u postgres psql
+ 1480  psql -U hwapi -d herowiki
+ 1481  systemctl restart postgresql
+ 1482  psql -U hwapi -d herowiki
+ 1483  python manage.py makemigrations
+ 1484  python manage.py migrate
+ 1485  psql -U hwapi -d herowiki
+ 1486  pyhon3 -m venv env
+ 1487  python3 -m venv env
+ 1488  source env/bin/activate
+ 1489  python manage.py makemigrations
+ 1490  psql -U hwapi -d herowiki
+ 1491  python manage.py makemigrations
+ 1492  cd Documentos/
+ 1493  cd herowiki/
+ 1494  source env/bin/activate
+ 1495* 
+ 1496  python manage.py migrate
+ 1497  python manage.py makemigrations
+ 1498  python manage.py migrate
+ 1499  python manage.py makemigrations
+ 1500  python manage.py migrate
+ 1501  python manage.py makemigrations
+ 1502  python manage.py migrate
+ 1503  python manage.py makemigrations
+ 1504  python manage.py migrate
+ 1505  history > comandos.txt

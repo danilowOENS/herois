@@ -1,0 +1,12 @@
+env
+.env
+/env
+venv
+.venv
+/venv
+.pscode
+/pscode
+pscode
+idea
+.idea
+/idea
